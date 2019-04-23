@@ -1,6 +1,6 @@
 Run all the python scripts here from the "data" directory
 
-words.txt is a list of the image-net.org wndis (WordNet IDs)
+words.txt is a list of the image-net.org wnids (WordNet IDs)
 
 In the fruit and vegetable directories there are fruit_names.txt and vegetable_names.txt files respectively. These contain a list of fruit and veggies from Wikipedia.
 
