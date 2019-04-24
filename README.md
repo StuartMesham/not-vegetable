@@ -9,13 +9,26 @@ Eventually, Not-Vegetable will classify images as either containing a vegetable 
 
 ## File Structure
 ```
-/not-vegetable
-* project_files
-    * fruit
-    * vegetables
-    * download_urls.py
-    * 
-* README.md
+not-vegetable/
+    project_file_structure.txt
+    README.md
+    .gitignore
+    project_files/
+        duplicate_check.py
+        tool_to_create_group_codes.py
+        list_project_structure.py
+        download_urls.py
+        wordnet_id_to_word.txt
+        fruit/
+            fruit_names.txt
+            wordnet_id_to_fruit.txt
+            image_urls/
+                -----files omitted for brevity-----
+        vegetables/
+            vegetable_names.txt
+            wordnet_id_to_vegetables.txt
+            image_urls/
+                -----files omitted for brevity-----
 ```
 
 
