@@ -1,3 +1,12 @@
+"""
+	Go through all of our fruits and vegetables, and print out:
+		* the number of fruit image urls that were referred to multiple times
+		* the number of vegetable image urls that were referred to multiple times
+		* the number of image urls that contain both fruits and vegetables
+			* all the links of those images
+		* the number of image urls which are not in both the fruits and the vegetables folders
+"""
+
 import os
 import glob
 
@@ -7,7 +16,7 @@ groups = ['fruit', 'vegetables']
 URLs = [set(), set()]
 duplicates = [[], []]
 
-for i in range(len(groups)):
+for i in range(len(groups)): # For both the fruit and the veggies
 	file_names = glob.glob(os.path.join(groups[i], 'image_urls', '*.txt'))
 
 	for file_name in file_names:
@@ -15,9 +24,9 @@ for i in range(len(groups)):
 		for line in file:
 			if len(line) > 0:
 				url = line.strip()
-				if url in URLs[i]:
+				if url in URLs[i]: # if url is already in the fruit's/veggie's set of urls, add it to the duplicates
 					duplicates[i].append(url)
-				else:
+				else: # else add the url to the set of URLs
 					URLs[i].add(url)
 		file.close()
 
