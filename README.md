@@ -10,32 +10,6 @@ Eventually, Not-Vegetable will classify images as either containing a vegetable 
 ## File Structure
 To be reorganised
 
-
-
-
-## Roadmap
-### 0. Organising
-Before coding, organise things:
-* Make a formal todo list, probably using Github's issues tracker
-* Flesh out [File Structure](##File Structure) for first time viewers
-    * Where are all the files stored
-    * Where can current work be found
-* Flesh out [Usage](##Usage) for first time viewers
-    * How to run the program
-* Look into what tools might be useful to create:
-    * Probably don't want to spend time creating these until needed though
-    * Ability to do a SQL-style query and view the results
-    * Ability to quickly label images (think a tinder style interface)
-* Confirm which license to use with Stuart
-    
-
-### 1. Not-Strawberry
-To simplify the problem, first the project will focus on classifying images as either strawberries or not strawberries
-#### Tasks
-
-### 2. Not-Vegetable
-Once not-strawberry is a working proof of concept, expand the project to include all vegetables / not vegetables
-
 ## Contributing
 To be confirmed
 
