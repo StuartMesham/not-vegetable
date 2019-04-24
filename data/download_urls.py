@@ -1,8 +1,8 @@
 """
-    1. Get a wordnet_id from each line in group_codes.txt,
+    1. Get a wordnet_id from each line in wordnet_id_to_fruit.txt,
     2. Get a page containing urls to images of that wordnet_id
     3. Put all those urls into image_urls/<wordnet_id>.txt
-    4. Repeat with the next wordnet_id from group_codes.txt
+    4. Repeat with the next wordnet_id from wordnet_id_to_fruit.txt
 
     TODO Autoformat all files
     TODO Rename Groupcodes.txt
@@ -12,7 +12,8 @@ import urllib.request
 import os
 import sys
 
-file = open(os.path.join(sys.argv[1], 'group_codes.txt'), 'r')
+textfile_name = "wordnet_id_to_" + sys.argv[1] + ".txt"
+file = open(os.path.join(sys.argv[1], textfile_name), 'r')
 
 for line in file:
     wordnet_id = line.split()[0]
