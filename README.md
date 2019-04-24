@@ -8,7 +8,17 @@ Not-Vegetable was born (as many things are) out of a heated undergrad discussion
 Eventually, Not-Vegetable will classify images as either containing a vegetable or not, thus relieving the undergrads so that they might get round to completing their CompSci assignments.
 
 ## File Structure
-To be reorganised
+```
+/not-vegetable
+* project_files
+    * fruit
+    * vegetables
+    * download_urls.py
+    * 
+* README.md
+```
+
+
 
 ## Contributing
 To be confirmed
