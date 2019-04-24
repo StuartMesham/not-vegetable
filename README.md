@@ -34,7 +34,7 @@ not-vegetable/
 
 
 ## Contributing
-To be confirmed
+All pull requests are welcome.
 
 ### Dependencies
 #### WordNet
@@ -86,6 +86,5 @@ python3 duplicate_check.py
 
 
 ## License
-To be determined
-
+See LICENSE.txt
 
