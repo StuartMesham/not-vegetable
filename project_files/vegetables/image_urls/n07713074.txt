@@ -11,7 +11,6 @@ http://farm1.static.flickr.com/59/190129932_4ea6a5d7d7.jpg
 http://www.countryliving.com/cm/countryliving/images/eggplants-0908-de-44409355.jpg
 http://static.flickr.com/3135/2704936990_b474e73da7.jpg
 http://static.flickr.com/27/67402751_2ffe963fd4.jpg
-http://farm2.static.flickr.com/1149/873551563_823aaf4467.jpg
 http://farm3.static.flickr.com/2375/2470052228_276121d433.jpg
 http://farm1.static.flickr.com/114/302317470_dfc9e01da1.jpg
 http://farm4.static.flickr.com/3227/2809103075_8bdd1f8662.jpg
@@ -88,7 +87,6 @@ http://farm1.static.flickr.com/113/308621032_d0b940aa6d.jpg
 http://farm2.static.flickr.com/1247/1286047296_0fe40d7141.jpg
 http://www.khmerkromrecipes.com/photo_recipes/eggplant.jpg
 http://farm4.static.flickr.com/3044/2767695033_db7352647d.jpg
-http://farm3.static.flickr.com/2318/2129194143_d58c849554.jpg
 http://static.flickr.com/3024/3027487668_3e1466f7f2.jpg
 http://farm4.static.flickr.com/3268/2903392210_3972a1e962.jpg
 http://farm3.static.flickr.com/2065/1559715239_47fb2c5d20.jpg
@@ -166,7 +164,6 @@ http://static.flickr.com/1096/1210785228_fd909e8507.jpg
 http://farm4.static.flickr.com/3282/3109166286_60bc7ee8c4.jpg
 http://farm4.static.flickr.com/3063/2666661612_dcfcbaa406.jpg
 http://farm2.static.flickr.com/1014/1116378660_f2466bddee.jpg
-http://farm1.static.flickr.com/90/247747866_26a5e8bd72.jpg
 http://static.flickr.com/3248/2823370502_82145d58bd.jpg
 http://farm4.static.flickr.com/3262/2849392819_112d8441c0.jpg
 http://farm1.static.flickr.com/32/55266680_fa04d988b5.jpg
@@ -207,7 +204,6 @@ http://farm1.static.flickr.com/56/107409369_cb59eb701a.jpg
 http://farm1.static.flickr.com/52/152246701_d847c3e8ac.jpg
 http://farm2.static.flickr.com/1440/701141028_6e5fbc8cd8.jpg
 http://farm3.static.flickr.com/2212/1504698903_ca1112699f.jpg
-http://farm3.static.flickr.com/2006/2184828518_531a585d27.jpg
 http://www.bigsiteofamazingfacts.com/files/u1/eggplant.jpg
 http://www.victoryseeds.com/catalog/vegetable/eggplant/eggplant_long_purple.jpg
 http://farm2.static.flickr.com/1388/890671240_32154ad103.jpg
@@ -357,7 +353,6 @@ http://farm4.static.flickr.com/3425/3233807972_32951447e5.jpg
 http://farm4.static.flickr.com/3014/3070833530_dfa7b1a12a.jpg
 http://farm4.static.flickr.com/3176/2582669810_0065f3b370.jpg
 http://farm4.static.flickr.com/3088/2376297057_a1b475df51.jpg
-http://farm3.static.flickr.com/2241/1795760717_a2a46dcc0e.jpg
 http://farm1.static.flickr.com/95/255178036_eba76646dd.jpg
 http://farm4.static.flickr.com/3294/2877881213_b819d99d10.jpg
 http://farm2.static.flickr.com/1010/539720553_49e84a2d8b.jpg
@@ -379,7 +374,6 @@ http://farm4.static.flickr.com/3017/2701696914_d85089486c.jpg
 http://farm1.static.flickr.com/116/312064374_892c0017bc.jpg
 http://farm2.static.flickr.com/1255/1436684424_cac3e34a48.jpg
 http://farm3.static.flickr.com/2209/2103225012_ce6f9e100c.jpg
-http://farm1.static.flickr.com/70/220939537_7f21537141.jpg
 http://farm2.static.flickr.com/1425/912199324_5be448e06c.jpg
 http://farm4.static.flickr.com/3139/2831543777_e8f6561626.jpg
 http://farm2.static.flickr.com/1022/976832939_6dec1738ce.jpg
@@ -409,7 +403,6 @@ http://farm1.static.flickr.com/25/62559610_3753d5c03d.jpg
 http://farm2.static.flickr.com/1208/1340182310_33741e815a.jpg
 http://farm1.static.flickr.com/172/391071467_e82c611775.jpg
 http://farm4.static.flickr.com/3161/2857706108_855b233c24.jpg
-http://farm4.static.flickr.com/3281/2633362870_3da17f8da8.jpg
 http://farm2.static.flickr.com/1203/1393281644_ca03106ae9.jpg
 http://farm1.static.flickr.com/91/239348697_30636cdbdc.jpg
 http://farm3.static.flickr.com/2341/2742281698_15c83dda57.jpg
@@ -422,13 +415,11 @@ http://farm2.static.flickr.com/1232/759166431_38750ca10b.jpg
 http://farm3.static.flickr.com/2195/2045247746_f5e0caea18.jpg
 http://farm2.static.flickr.com/1260/1322521320_14b6183b3a.jpg
 http://farm4.static.flickr.com/3189/2660784127_8542ba0b38.jpg
-http://farm1.static.flickr.com/16/21586587_a3662cd23f.jpg
 http://farm2.static.flickr.com/1248/1351322503_90754ac51c.jpg
 http://farm4.static.flickr.com/3058/2704114391_7eb65dd557.jpg
 http://farm4.static.flickr.com/3288/2931761987_6cdd835821.jpg
 http://farm4.static.flickr.com/3106/2876599729_328da13e23.jpg
 http://farm2.static.flickr.com/1260/1116381838_2e2f97aa19.jpg
-http://farm3.static.flickr.com/2301/2231702849_f5a0856aa3.jpg
 http://farm1.static.flickr.com/249/456470772_daa3cf3962.jpg
 http://farm3.static.flickr.com/2365/2205274052_2f41369ddb.jpg
 http://farm1.static.flickr.com/95/245421232_e923f85676.jpg
@@ -454,7 +445,6 @@ http://farm1.static.flickr.com/55/133347029_b9ff4d0faa.jpg
 http://farm1.static.flickr.com/138/319132532_dcc871a9db.jpg
 http://farm4.static.flickr.com/3181/2995075339_5e73de02b8.jpg
 http://farm4.static.flickr.com/3036/2466674622_5f0290e7f5.jpg
-http://farm1.static.flickr.com/96/260292607_cbdd10b56c.jpg
 http://farm2.static.flickr.com/1288/1160905626_71ad6fe0b3.jpg
 http://farm4.static.flickr.com/3023/2952104122_4db644fb98.jpg
 http://farm1.static.flickr.com/78/179035709_f8345c8b16.jpg
@@ -488,7 +478,6 @@ http://www.pureprescriptions.com/images/hn_images/Food_Guide/Eggplant.jpg
 http://farm1.static.flickr.com/94/233213308_e4abc4dc94.jpg
 http://farm4.static.flickr.com/3068/2326681372_5fc8a528b9.jpg
 http://farm4.static.flickr.com/3284/3110233475_11773802d6.jpg
-http://farm4.static.flickr.com/3259/2752935161_61faae2b55.jpg
 http://farm1.static.flickr.com/150/389444790_38ee67799f.jpg
 http://farm3.static.flickr.com/2215/1940733381_dbb6e04368.jpg
 http://farm1.static.flickr.com/21/26871179_9a29267d56.jpg
@@ -566,7 +555,6 @@ http://farm4.static.flickr.com/3009/2864331814_df9fe0fefb.jpg
 http://farm3.static.flickr.com/2392/2072154864_b9998a2e92.jpg
 http://farm4.static.flickr.com/3055/2994066922_3cca65a9b9.jpg
 http://farm4.static.flickr.com/3120/2579864350_a78a2ce5aa.jpg
-http://farm1.static.flickr.com/32/57078544_8489b63697.jpg
 http://farm4.static.flickr.com/3117/2863772287_8206e094f3.jpg
 http://www.aguibal.com/images/olives/eggplant_sm.jpg
 http://farm1.static.flickr.com/75/202624496_24efea64a3.jpg
@@ -704,7 +692,6 @@ http://farm4.static.flickr.com/3056/2847882591_e100d11b3e.jpg
 http://farm4.static.flickr.com/3279/2715614746_1227a3156e.jpg
 http://farm1.static.flickr.com/27/57078580_67698b3950.jpg
 http://farm4.static.flickr.com/3049/2773362378_fd838bdd43.jpg
-http://farm2.static.flickr.com/1338/1259748531_e8fd866a23.jpg
 http://farm1.static.flickr.com/123/382989037_fa9bdeb7e0.jpg
 http://farm1.static.flickr.com/15/19382898_cf8b8d4143.jpg
 http://farm4.static.flickr.com/3133/2487943851_76e04c48db.jpg
@@ -743,7 +730,6 @@ http://farm1.static.flickr.com/103/264818741_284fb72223.jpg
 http://farm3.static.flickr.com/2043/2211064794_35f9e8f7e8.jpg
 http://farm4.static.flickr.com/3128/2740904021_50c3c6a3a7.jpg
 http://farm3.static.flickr.com/2347/1559722131_9593edf3aa.jpg
-http://farm2.static.flickr.com/1313/1439140361_f8950ba104.jpg
 http://farm2.static.flickr.com/1298/1317608874_6f193c9fc7.jpg
 http://farm2.static.flickr.com/1032/1317333341_583e85cc1f.jpg
 http://farm4.static.flickr.com/3175/2654304442_263257132e.jpg
@@ -786,14 +772,12 @@ http://farm4.static.flickr.com/3227/2654446680_6d36a685f1.jpg
 http://farm1.static.flickr.com/179/481273860_0d5027035c.jpg
 http://farm4.static.flickr.com/3162/2711346572_b0b74c6473.jpg
 http://farm4.static.flickr.com/3041/2744889282_22295e7bee.jpg
-http://farm3.static.flickr.com/2420/1717290539_110d48d437.jpg
 http://farm4.static.flickr.com/3242/2834055608_b4a4b20f6c.jpg
 http://farm4.static.flickr.com/3145/3070834696_2009eb938b.jpg
 http://farm2.static.flickr.com/1056/528094522_be4433928f.jpg
 http://farm1.static.flickr.com/92/237187359_bf124fdb36.jpg
 http://farm1.static.flickr.com/128/382945780_856ee0f4f0.jpg
 http://farm1.static.flickr.com/171/446072854_9c56e3f958.jpg
-http://farm2.static.flickr.com/1021/1425565869_1a9118c0fb.jpg
 http://farm4.static.flickr.com/3173/2845501431_2918b8f701.jpg
 http://farm2.static.flickr.com/1105/1484696932_3f1560fc91.jpg
 http://farm3.static.flickr.com/2400/1701601550_17936df8b8.jpg
@@ -817,7 +801,6 @@ http://farm4.static.flickr.com/3187/2698390345_dc3e28c3a6.jpg
 http://farm4.static.flickr.com/3243/2748272146_6ebf9b92ec.jpg
 http://farm1.static.flickr.com/63/191557528_595f0e13d7.jpg
 http://farm4.static.flickr.com/3107/2894961874_dbd51ca5db.jpg
-http://farm2.static.flickr.com/1395/1123362928_90921d0931.jpg
 http://farm2.static.flickr.com/1073/777699058_749ddd3e98.jpg
 http://farm4.static.flickr.com/3135/3030811695_e5f5d81031.jpg
 http://farm1.static.flickr.com/126/376874712_c140147ec0.jpg
@@ -871,7 +854,6 @@ http://img5.travelblog.org/Photos/90323/345153/t/3109595-Eggplant-0.jpg
 http://farm3.static.flickr.com/2130/1956610891_cb38efa1e6.jpg
 http://farm1.static.flickr.com/20/73957833_9edb810e82.jpg
 http://farm1.static.flickr.com/100/272742984_2355594e1c.jpg
-http://farm2.static.flickr.com/1110/613297581_f214c70c6c.jpg
 http://farm3.static.flickr.com/2205/2307213450_52d64f18ce.jpg
 http://farm2.static.flickr.com/1269/1374054453_0e16f8c2c9.jpg
 http://farm1.static.flickr.com/67/200303508_c01462fbb2.jpg
@@ -913,7 +895,6 @@ http://farm1.static.flickr.com/116/317162651_955ae941ea.jpg
 http://farm3.static.flickr.com/2082/2437046582_8858c3bac2.jpg
 http://farm4.static.flickr.com/3183/2823309370_0164ee4ab4.jpg
 http://farm3.static.flickr.com/2042/2443763426_d78eeef101.jpg
-http://farm1.static.flickr.com/196/516939739_62f91b4281.jpg
 http://farm4.static.flickr.com/3047/3105386079_57260ea08f.jpg
 http://farm4.static.flickr.com/3240/2699036443_dbc32595e4.jpg
 http://farm1.static.flickr.com/33/35639759_100d5af943.jpg
@@ -963,7 +944,6 @@ http://farm4.static.flickr.com/3501/3185119111_2e1e033586.jpg
 http://farm2.static.flickr.com/1348/864973467_10a07b1160.jpg
 http://farm4.static.flickr.com/3229/2525639316_41be57ea2f.jpg
 http://farm3.static.flickr.com/2051/1514642045_234c226d9e.jpg
-http://farm4.static.flickr.com/3254/2824032719_edfc02b705.jpg
 http://farm2.static.flickr.com/1168/1215282812_3b6369dff2.jpg
 http://farm1.static.flickr.com/116/272292060_9c7df77d56.jpg
 http://farm2.static.flickr.com/1121/945576738_c4baf159d6.jpg
@@ -1028,7 +1008,6 @@ http://farm4.static.flickr.com/3195/2835165218_6d9ac50f50.jpg
 http://farm1.static.flickr.com/142/381609923_7979bccb58.jpg
 http://farm1.static.flickr.com/163/382990838_07ffb33857.jpg
 http://farm4.static.flickr.com/3105/3212040097_dc182575a9.jpg
-http://farm4.static.flickr.com/3042/2693538604_ce47b90e2d.jpg
 http://farm1.static.flickr.com/93/240141384_0297c822d2.jpg
 http://farm1.static.flickr.com/179/395135326_adc741dd3a.jpg
 http://farm4.static.flickr.com/3104/2754987864_19b2fecd39.jpg
@@ -1049,7 +1028,6 @@ http://farm1.static.flickr.com/2/2189507_993eebd8b4.jpg
 http://farm4.static.flickr.com/3093/2690007707_bbe80ce025.jpg
 http://farm2.static.flickr.com/1062/1235356371_b2531b2a11.jpg
 http://static.flickr.com/3162/2281815809_207631d6cb.jpg
-http://farm2.static.flickr.com/1146/746904814_d251d67e07.jpg
 http://farm1.static.flickr.com/55/140908984_7a92a0bf8c.jpg
 http://farm1.static.flickr.com/1/131645299_5719631ef0.jpg
 http://farm4.static.flickr.com/3161/2297319464_a56da61e78.jpg
@@ -1057,7 +1035,6 @@ http://www.effilee.de/images/articles/aubergine_ganz.jpg
 http://farm2.static.flickr.com/1052/867817461_06abcefe47.jpg
 http://farm3.static.flickr.com/2027/2615071306_3d19eda420.jpg
 http://farm4.static.flickr.com/3251/3102797597_968717d8bc.jpg
-http://farm1.static.flickr.com/104/293568042_b502e7e888.jpg
 http://farm1.static.flickr.com/217/505621329_ac37cd1c46.jpg
 http://farm1.static.flickr.com/81/207313928_f9e911ff86.jpg
 http://farm4.static.flickr.com/3014/2563052590_1e637db335.jpg
@@ -1090,7 +1067,6 @@ http://farm3.static.flickr.com/2185/1589321520_25d0f65618.jpg
 http://farm1.static.flickr.com/24/44111922_068adf0cb0.jpg
 http://farm2.static.flickr.com/1055/1380088019_bde738a42d.jpg
 http://farm2.static.flickr.com/1210/1115530381_14dcea8526.jpg
-http://farm2.static.flickr.com/1237/1008983282_962e654540.jpg
 http://farm1.static.flickr.com/22/30075115_01651fb1f2.jpg
 http://farm2.static.flickr.com/1172/1285188461_a263751e0a.jpg
 http://farm3.static.flickr.com/2345/1498003272_6f66be326f.jpg
@@ -1106,10 +1082,7 @@ http://farm1.static.flickr.com/28/44058602_7c7635ca7d.jpg
 http://farm2.static.flickr.com/1155/1336584283_f82ec8e398.jpg
 http://www.bbc.co.uk/food/images/aubergine_140x90.jpg
 http://farm1.static.flickr.com/22/24701370_8192064393.jpg
-http://farm1.static.flickr.com/72/230277255_699e998876.jpg
-http://farm3.static.flickr.com/2163/1506395748_9b99b1e830.jpg
 http://farm4.static.flickr.com/3203/2713011298_0b06b89f52.jpg
-http://farm2.static.flickr.com/1336/1433326104_c59c6fec74.jpg
 http://farm2.static.flickr.com/1196/817538228_93d8b76a96.jpg
 http://farm2.static.flickr.com/1195/890670192_a700b694f0.jpg
 http://farm4.static.flickr.com/3042/2758797987_ccf1ae906f.jpg
@@ -1176,7 +1149,6 @@ http://farm2.static.flickr.com/1384/851597011_f62ad184e7.jpg
 http://farm4.static.flickr.com/3003/2766116541_da65e00442.jpg
 http://farm4.static.flickr.com/3065/2756468011_2f7d895126.jpg
 http://farm4.static.flickr.com/3029/2755445132_221f62c6d7.jpg
-http://farm4.static.flickr.com/3007/2755045218_d4a87c1749.jpg
 http://farm4.static.flickr.com/3038/2870755125_7618b9e4c1.jpg
 http://farm3.static.flickr.com/2121/2168980468_12f2818ed7.jpg
 http://farm4.static.flickr.com/3248/3103627306_65e4bfa194.jpg
@@ -1194,10 +1166,8 @@ http://farm2.static.flickr.com/1430/1415821206_14f8f21d82.jpg
 http://farm4.static.flickr.com/3258/2763053877_52b5da6002.jpg
 http://farm3.static.flickr.com/2367/2736746927_ca0d54df36.jpg
 http://farm4.static.flickr.com/3108/2811665985_652d50f70c.jpg
-http://farm2.static.flickr.com/1386/1361323231_9ccf566bd1.jpg
 http://farm2.static.flickr.com/1303/1133953479_c65868bfbe.jpg
 http://farm1.static.flickr.com/173/383338577_6477d2550e.jpg
-http://farm4.static.flickr.com/3178/2852524460_fd566a3382.jpg
 http://farm1.static.flickr.com/155/346204054_6f0520196f.jpg
 http://farm1.static.flickr.com/96/261960945_1021ea008e.jpg
 http://farm4.static.flickr.com/3242/2782241409_d1014c512e.jpg

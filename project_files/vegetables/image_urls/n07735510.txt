@@ -496,7 +496,6 @@ http://farm4.static.flickr.com/3160/2967576441_509def00fb.jpg
 http://farm3.static.flickr.com/2309/1572735592_f336e21cb9.jpg
 http://farm4.static.flickr.com/3008/2978472828_7c573b9c2a.jpg
 http://farm4.static.flickr.com/3261/2489312466_27d914fca4.jpg
-http://farm4.static.flickr.com/3074/2974408091_9cc84810ac.jpg
 http://farm4.static.flickr.com/3289/2825617270_6c0197843f.jpg
 http://farm4.static.flickr.com/3153/2957796193_6204e77bfd.jpg
 http://farm3.static.flickr.com/2026/2075893638_b757dc713a.jpg
@@ -524,7 +523,6 @@ http://farm4.static.flickr.com/3026/2939815773_109c8dd769.jpg
 http://farm1.static.flickr.com/33/55056600_a651d837c1.jpg
 http://farm2.static.flickr.com/1060/1454461667_d827003b24.jpg
 http://farm3.static.flickr.com/2350/1796503276_c5bb7387b1.jpg
-http://farm1.static.flickr.com/84/232781287_00585d4033.jpg
 http://farm4.static.flickr.com/3282/2985060579_c1a39d8080.jpg
 http://farm4.static.flickr.com/3284/2982918800_9f84c8ee42.jpg
 http://farm1.static.flickr.com/104/278889802_198a145c5f.jpg
@@ -579,7 +577,6 @@ http://farm1.static.flickr.com/34/69786407_e81760a187.jpg
 http://farm1.static.flickr.com/26/58081287_caa6b1cb1a.jpg
 http://farm4.static.flickr.com/3161/2630093720_d6c9a10e7d.jpg
 http://farm4.static.flickr.com/3012/3018847975_08df5bab89.jpg
-http://farm1.static.flickr.com/27/92288022_a48d5fd9ae.jpg
 http://farm1.static.flickr.com/188/471630966_ea0aad3175.jpg
 http://farm4.static.flickr.com/3220/2975235749_757754d87a.jpg
 http://farm4.static.flickr.com/3250/2885516623_6bb6541665.jpg
@@ -828,7 +825,6 @@ http://static.flickr.com/57/285872519_aab719cddd.jpg
 http://farm1.static.flickr.com/31/46274337_fe0dbfe6b8.jpg
 http://farm4.static.flickr.com/3029/2916737261_6b8e8cdbf0.jpg
 http://farm4.static.flickr.com/3282/2896755240_55b7270caa.jpg
-http://farm3.static.flickr.com/2312/1575968273_dd0286808c.jpg
 http://farm3.static.flickr.com/2047/1678492276_537f795070.jpg
 http://farm4.static.flickr.com/3264/2915659305_c94bfbb9e7.jpg
 http://farm4.static.flickr.com/3053/2900199293_355c12d797.jpg
@@ -840,7 +836,6 @@ http://farm4.static.flickr.com/3060/2955939831_a2e1a47ef3.jpg
 http://farm4.static.flickr.com/3053/2986355257_5100b3d6c2.jpg
 http://farm4.static.flickr.com/3172/2879042664_014cb56b5b.jpg
 http://farm1.static.flickr.com/52/278519695_1a685e2514.jpg
-http://farm1.static.flickr.com/33/65918476_61b2cfeb60.jpg
 http://farm1.static.flickr.com/30/55404046_343a9437e5.jpg
 http://farm4.static.flickr.com/3153/2935535327_c2e7ab3e8e.jpg
 http://farm3.static.flickr.com/2374/1514791173_39469b265a.jpg
@@ -1056,7 +1051,6 @@ http://farm3.static.flickr.com/2052/1862923173_8e70d1d99d.jpg
 http://farm4.static.flickr.com/3209/2986007297_e30bbf91af.jpg
 http://farm3.static.flickr.com/2249/1517607399_ef27b0c11b.jpg
 http://farm1.static.flickr.com/29/55110736_9b2ec4b3a5.jpg
-http://farm1.static.flickr.com/114/283517143_d6bf8389a0.jpg
 http://farm1.static.flickr.com/111/271266849_f59087a273.jpg
 http://farm4.static.flickr.com/3152/2980722655_fbe0a5c977.jpg
 http://farm4.static.flickr.com/3147/2977542318_21f704078c.jpg
@@ -1227,7 +1221,6 @@ http://farm3.static.flickr.com/2269/1784632705_d071700312.jpg
 http://farm2.static.flickr.com/1013/1470746620_25fd07f581.jpg
 http://farm4.static.flickr.com/3227/2924396734_bf9e87d19a.jpg
 http://farm3.static.flickr.com/2130/1807001281_5d2d060103.jpg
-http://farm3.static.flickr.com/2268/2243702600_2318a63488.jpg
 http://farm1.static.flickr.com/29/49984184_005c8e8330.jpg
 http://farm1.static.flickr.com/95/217302659_016bacaeb5.jpg
 http://farm1.static.flickr.com/81/276767234_c624ac30fc.jpg
@@ -1408,7 +1401,6 @@ http://farm3.static.flickr.com/2367/2048406834_daa190cf1b.jpg
 http://farm4.static.flickr.com/3070/2960551470_74ba9df5fe.jpg
 http://farm3.static.flickr.com/2411/1807280129_1aa3087858.jpg
 http://farm4.static.flickr.com/3140/2888269145_2d329c4379.jpg
-http://farm3.static.flickr.com/2078/1680445296_f2b44bded4.jpg
 http://farm3.static.flickr.com/2319/1682882233_2b7baa65b9.jpg
 http://farm1.static.flickr.com/32/51062932_31e3127746.jpg
 http://static.flickr.com/1046/1469597215_24fefd1a8a.jpg

@@ -78,7 +78,6 @@ http://farm1.static.flickr.com/27/38232523_a92a6d765c.jpg
 http://farm4.static.flickr.com/3050/2650694245_604c37d03e.jpg
 http://farm1.static.flickr.com/53/189324219_7a81258640.jpg
 http://farm2.static.flickr.com/1186/701020892_d4d0123307.jpg
-http://farm4.static.flickr.com/3221/2761149421_b5c87eb547.jpg
 http://farm1.static.flickr.com/26/67341866_aaf1fa881d.jpg
 http://farm2.static.flickr.com/1166/1046416640_1f886cb652.jpg
 http://farm1.static.flickr.com/45/183640773_6d3e28d72a.jpg
@@ -140,7 +139,6 @@ http://farm3.static.flickr.com/2164/2584224297_7942cec7fb.jpg
 http://farm2.static.flickr.com/1069/1439257630_2f02e4e3b2.jpg
 http://farm1.static.flickr.com/33/40269724_64f654e6bd.jpg
 http://farm2.static.flickr.com/1016/805538440_5a362be935.jpg
-http://farm2.static.flickr.com/1128/556159772_4269fb03d5.jpg
 http://farm1.static.flickr.com/144/357336495_695f8d968a.jpg
 http://farm1.static.flickr.com/84/241018729_8564d70646.jpg
 http://farm4.static.flickr.com/3035/2569127465_c057dba09f.jpg
@@ -294,15 +292,12 @@ http://farm2.static.flickr.com/1389/1023579343_16bcb8a571.jpg
 http://farm1.static.flickr.com/64/201961623_f4041d3d9d.jpg
 http://farm4.static.flickr.com/3080/2696949939_09c4d33c51.jpg
 http://farm4.static.flickr.com/3191/2694258086_26963b6cda.jpg
-http://farm3.static.flickr.com/2139/1971439565_38a6dcada1.jpg
 http://farm3.static.flickr.com/2395/1556643175_cf9f204ee9.jpg
 http://farm1.static.flickr.com/72/185066357_9087e067c7.jpg
-http://farm3.static.flickr.com/2012/2426494773_295f7f4468.jpg
 http://farm1.static.flickr.com/187/470815442_49301be371.jpg
 http://farm1.static.flickr.com/48/150523861_61a2c5d862.jpg
 http://farm4.static.flickr.com/3091/2772086043_ba977335ef.jpg
 http://farm4.static.flickr.com/3157/2615933521_36054e27c1.jpg
-http://farm2.static.flickr.com/1418/556175640_d800dfd152.jpg
 http://farm1.static.flickr.com/60/173213490_d0ed4d6c5c.jpg
 http://farm4.static.flickr.com/3090/2677181150_21e38120a3.jpg
 http://farm2.static.flickr.com/1297/986017605_0990867662.jpg
@@ -538,7 +533,6 @@ http://farm1.static.flickr.com/29/54480431_33e011607a.jpg
 http://farm1.static.flickr.com/36/106012976_96ace7d530.jpg
 http://farm1.static.flickr.com/49/192868684_2245ab437a.jpg
 http://farm4.static.flickr.com/3024/2582753158_701347157b.jpg
-http://farm3.static.flickr.com/2344/2542125268_91f7431086.jpg
 http://farm1.static.flickr.com/23/32803572_7a3d967038.jpg
 http://farm2.static.flickr.com/1061/960952973_4302616f77.jpg
 http://farm3.static.flickr.com/2413/2682045533_3672362027.jpg
@@ -575,7 +569,6 @@ http://farm1.static.flickr.com/31/48319895_86a06501a3.jpg
 http://farm2.static.flickr.com/1310/960958991_e13f44e5a7.jpg
 http://farm1.static.flickr.com/23/30118294_93d192f1b9.jpg
 http://farm1.static.flickr.com/120/278888204_9484a0b7b8.jpg
-http://farm4.static.flickr.com/3130/2762000572_d3e095c49a.jpg
 http://farm4.static.flickr.com/3045/2714963861_0643231f3f.jpg
 http://farm4.static.flickr.com/3239/2738575303_1dfb743bbd.jpg
 http://farm1.static.flickr.com/26/40247899_c0c1691084.jpg
@@ -681,7 +674,6 @@ http://farm4.static.flickr.com/3166/2548474326_ac1c0d9e96.jpg
 http://farm2.static.flickr.com/1088/1095989374_ba7ff0690c.jpg
 http://farm2.static.flickr.com/1172/888001301_6428f3d509.jpg
 http://farm2.static.flickr.com/1310/1049812597_f3a34a21f7.jpg
-http://farm1.static.flickr.com/153/345102229_5ad94932c5.jpg
 http://farm3.static.flickr.com/2009/2037355407_f62ebd1e6d.jpg
 http://farm3.static.flickr.com/2119/2230280402_2ae6c43c11.jpg
 http://farm4.static.flickr.com/3231/2716891440_5b24cc243b.jpg
@@ -710,7 +702,6 @@ http://farm1.static.flickr.com/97/211241096_a6e2d16513.jpg
 http://farm2.static.flickr.com/1167/872726231_8a7e0725d6.jpg
 http://farm4.static.flickr.com/3200/2656843519_9a9b4834d9.jpg
 http://farm2.static.flickr.com/1323/885130620_d7b07e9f54.jpg
-http://farm4.static.flickr.com/3282/2762001866_58902247b1.jpg
 http://farm1.static.flickr.com/66/203090278_6f5c95dada.jpg
 http://farm3.static.flickr.com/2328/2609704181_96283eae03.jpg
 http://farm2.static.flickr.com/1363/1295036977_272f3a4d29.jpg
@@ -760,7 +751,6 @@ http://farm3.static.flickr.com/2418/2339375859_e67b89aabf.jpg
 http://farm2.static.flickr.com/1270/985325043_27c2065c8b.jpg
 http://farm1.static.flickr.com/21/30118167_3a0451ad7c.jpg
 http://farm4.static.flickr.com/3021/2701899955_1a9b8cd67b.jpg
-http://farm2.static.flickr.com/1362/795515988_ed1416c701.jpg
 http://farm4.static.flickr.com/3262/2642187670_dae5acf019.jpg
 http://farm1.static.flickr.com/104/303826574_563226230c.jpg
 http://farm1.static.flickr.com/1/266240_0c9182ba4f.jpg
@@ -815,7 +805,6 @@ http://farm1.static.flickr.com/73/185824201_7dcc4c6258.jpg
 http://farm4.static.flickr.com/3004/2684192194_9706cfae7f.jpg
 http://farm2.static.flickr.com/1368/1434612464_52854989de.jpg
 http://farm1.static.flickr.com/56/145206688_6551fd1942.jpg
-http://farm2.static.flickr.com/1228/1316039502_1b8acbc2fd.jpg
 http://farm4.static.flickr.com/3042/2678278403_025e105784.jpg
 http://farm4.static.flickr.com/3222/2760132005_d1ab1a569f.jpg
 http://farm4.static.flickr.com/3140/2710484023_ab16eed0d7.jpg
@@ -877,7 +866,6 @@ http://farm2.static.flickr.com/1296/833940874_8b013fc8d9.jpg
 http://farm2.static.flickr.com/1151/780324219_6cd2b52962.jpg
 http://farm1.static.flickr.com/58/176730643_ff85af3448.jpg
 http://farm1.static.flickr.com/36/80390448_41b9bf9dd4.jpg
-http://farm1.static.flickr.com/116/286557052_f7c4091cc5.jpg
 http://farm4.static.flickr.com/3115/2686102247_9495a5e47a.jpg
 http://farm1.static.flickr.com/21/99536344_2c40cc6fe1.jpg
 http://farm3.static.flickr.com/2037/2334874431_be8061cd06.jpg
@@ -1042,7 +1030,6 @@ http://farm1.static.flickr.com/172/463624393_2c0a951d98.jpg
 http://farm4.static.flickr.com/3154/2711491489_6180bbe437.jpg
 http://farm2.static.flickr.com/1256/1438397749_1266f5e4f3.jpg
 http://farm2.static.flickr.com/1225/1253494254_3d6b8dd404.jpg
-http://farm2.static.flickr.com/1432/1387046010_c964e853cd.jpg
 http://farm4.static.flickr.com/3089/2737320842_e808e50f4e.jpg
 http://static.flickr.com/138/344829699_f070ed36fc.jpg
 http://farm4.static.flickr.com/3295/2702821695_3b081a26db.jpg
@@ -1055,7 +1042,6 @@ http://farm3.static.flickr.com/2265/2305983993_8a8292745b.jpg
 http://farm4.static.flickr.com/3078/2626104071_fb2e1d04f0.jpg
 http://farm1.static.flickr.com/86/208003792_70e129f175.jpg
 http://farm1.static.flickr.com/53/147301147_398a6cb8f3.jpg
-http://farm4.static.flickr.com/3049/2761163557_fdd559f73d.jpg
 http://farm1.static.flickr.com/86/241659492_7748e84eb6.jpg
 http://farm4.static.flickr.com/3137/2554583936_0597012f96.jpg
 http://farm4.static.flickr.com/3095/2699686046_b75270fb0c.jpg
@@ -1157,7 +1143,6 @@ http://farm2.static.flickr.com/1199/781200424_af75e82348.jpg
 http://farm1.static.flickr.com/87/241643259_a7afbc0c62.jpg
 http://farm1.static.flickr.com/66/213677642_47f6afaff1.jpg
 http://farm2.static.flickr.com/1208/848053194_3d523bd13e.jpg
-http://farm4.static.flickr.com/3263/2762002658_c68d8e72ef.jpg
 http://farm2.static.flickr.com/1375/1261792421_61a60bcbb0.jpg
 http://farm4.static.flickr.com/3257/2654582582_0b6139f4b5.jpg
 http://farm4.static.flickr.com/3042/2664013267_2a06f15d29.jpg
@@ -1282,7 +1267,6 @@ http://farm1.static.flickr.com/164/435211572_a8b3ee4e4f.jpg
 http://farm2.static.flickr.com/1118/780925879_8fad360173.jpg
 http://farm1.static.flickr.com/196/481860875_5ff01865a5.jpg
 http://farm4.static.flickr.com/3140/2733721929_9eb78eb379.jpg
-http://farm4.static.flickr.com/3140/2702371996_92f894b044.jpg
 http://farm2.static.flickr.com/1274/877865531_9509dd2efc.jpg
 http://farm4.static.flickr.com/3007/2625901691_7ca1e88a70.jpg
 http://farm1.static.flickr.com/54/181973033_7add449194.jpg

@@ -20,7 +20,6 @@ http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Framboos_vruchten.jpg/2
 http://farm1.static.flickr.com/35/71064082_7a0160eb5e.jpg
 http://farm4.static.flickr.com/3187/2689124735_4cacc592d3.jpg
 http://farm3.static.flickr.com/2314/2502437646_0034188b10.jpg
-http://farm1.static.flickr.com/43/76597508_28fbdb90c2.jpg
 http://farm4.static.flickr.com/3092/2779717966_5d21a7821b.jpg
 http://farm4.static.flickr.com/3166/2646444984_c375257aa0.jpg
 http://farm4.static.flickr.com/3075/2734758893_afa44c0eef.jpg
@@ -512,7 +511,6 @@ http://farm2.static.flickr.com/1372/688774711_bd3f1c5bff.jpg
 http://farm3.static.flickr.com/2175/2263778219_eda1e45b54.jpg
 http://farm2.static.flickr.com/1119/1474498222_d4d452be0f.jpg
 http://farm3.static.flickr.com/2212/2221540012_fca1a3b3c6.jpg
-http://farm1.static.flickr.com/108/303171990_7138dd4e6e.jpg
 http://farm2.static.flickr.com/1216/894400934_ea60207652.jpg
 http://farm4.static.flickr.com/3226/2763849966_62ddb56f1b.jpg
 http://farm3.static.flickr.com/2090/2247747339_728cea3bdb.jpg
@@ -987,7 +985,6 @@ http://farm1.static.flickr.com/22/27461836_affbcfcced.jpg
 http://farm4.static.flickr.com/3242/2776743043_84c873dbd5.jpg
 http://farm2.static.flickr.com/1238/611717443_bfa2e58c60.jpg
 http://farm1.static.flickr.com/69/199160742_aac2b849ea.jpg
-http://farm2.static.flickr.com/1350/1462533455_439d625bee.jpg
 http://farm4.static.flickr.com/3226/2711579640_3856761f24.jpg
 http://farm1.static.flickr.com/137/349983165_64b46d52f2.jpg
 http://farm4.static.flickr.com/3180/2656830739_94c559c284.jpg
@@ -1108,7 +1105,6 @@ http://farm1.static.flickr.com/42/121846004_757702feb4.jpg
 http://farm1.static.flickr.com/82/206917504_caf855b3bd.jpg
 http://farm2.static.flickr.com/1121/1400895092_7e6c016bc9.jpg
 http://farm2.static.flickr.com/1212/1301380376_bba326acca.jpg
-http://farm1.static.flickr.com/21/31557098_44a99b1684.jpg
 http://farm1.static.flickr.com/85/259565866_d30acc6b4f.jpg
 http://farm4.static.flickr.com/3225/2687590260_6bbab432d0.jpg
 http://farm1.static.flickr.com/162/383567209_53edaf9a88.jpg
@@ -1150,7 +1146,6 @@ http://farm2.static.flickr.com/1206/564447366_740ada7c4b.jpg
 http://farm3.static.flickr.com/2010/2364607741_35f38a241a.jpg
 http://farm3.static.flickr.com/2137/2228436003_c97a938d52.jpg
 http://farm2.static.flickr.com/1276/1131367032_2ad7023b38.jpg
-http://farm2.static.flickr.com/1384/1448660302_fe55a2fabc.jpg
 http://farm3.static.flickr.com/2378/2542624758_05b2c7d529.jpg
 http://farm4.static.flickr.com/3179/2756731677_ebf63acf30.jpg
 http://farm3.static.flickr.com/2252/2683122834_69576ff864.jpg

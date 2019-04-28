@@ -30,7 +30,6 @@ http://farm1.static.flickr.com/56/192286101_6ac8c0c053.jpg
 http://farm3.static.flickr.com/2066/2243625929_bb546a0d2f.jpg
 http://www.healthline.com/blogs/healthline_connects/uploaded_images/broccoli-794608.jpg
 http://farm1.static.flickr.com/177/484326449_c93c0ed641.jpg
-http://farm1.static.flickr.com/52/179407717_6c068650e2.jpg
 http://farm4.static.flickr.com/3171/2807331234_31bed202d4.jpg
 http://farm2.static.flickr.com/1005/3164461373_35e1038e6e.jpg
 http://farm4.static.flickr.com/3151/2488556005_6d413ec399.jpg
@@ -85,7 +84,6 @@ http://farm4.static.flickr.com/3317/3222247669_4ee5b6b6fb.jpg
 http://farm3.static.flickr.com/2006/2074295235_c0aec977d2.jpg
 http://farm4.static.flickr.com/3451/3197210841_7eafa65245.jpg
 http://farm1.static.flickr.com/212/479880527_30c57b7ac9.jpg
-http://www.restaurantwidow.com/images/broccolini_1.jpg
 http://farm1.static.flickr.com/177/412796515_f9046004c4.jpg
 http://www.titefood.com/images/broccoli.jpg
 http://farm1.static.flickr.com/71/173268897_d8de07aace.jpg
@@ -380,7 +378,6 @@ http://farm4.static.flickr.com/3025/2564403983_f1559532b4.jpg
 http://farm4.static.flickr.com/3116/3205594740_9d2eea5504.jpg
 http://farm4.static.flickr.com/3180/2446992602_e029e76ba8.jpg
 http://www.21food.com/userImages/gelins/gelins$122818319.jpg
-http://farm4.static.flickr.com/3037/3046551249_40c6b6171a.jpg
 http://farm1.static.flickr.com/174/363966207_74ca7a0370.jpg
 http://farm4.static.flickr.com/3001/3059051580_f534b80df1.jpg
 http://farm1.static.flickr.com/41/90629246_1a6f67ebae.jpg
@@ -441,7 +438,6 @@ http://farm2.static.flickr.com/1417/818692012_df2f3c623c.jpg
 http://farm2.static.flickr.com/1135/532217026_7bb79aacb8.jpg
 http://farm2.static.flickr.com/1332/915427620_04d589b36d.jpg
 http://farm4.static.flickr.com/3068/2891615642_1cee24e9f2.jpg
-http://farm4.static.flickr.com/3183/2962248891_09fe979f2d.jpg
 http://farm3.static.flickr.com/2144/2112639281_fe054ebe13.jpg
 http://farm2.static.flickr.com/1387/914585755_2dbec0db2b.jpg
 http://farm1.static.flickr.com/48/136897590_0e63a1a43f.jpg
@@ -542,12 +538,10 @@ http://www.wsmv.com/2007/0209/10974424_320X240.jpg
 http://www.sealedair-emea.com/products/shrink/applications/images/ss_broccoli.jpg
 http://farm1.static.flickr.com/180/464301774_79f4f95864.jpg
 http://farm1.static.flickr.com/1/3619395_e9c06ed65f.jpg
-http://ccmgatx.org/Images/broccoli.jpg
 http://farm3.static.flickr.com/2075/2198409607_645a529c73.jpg
 http://farm4.static.flickr.com/3178/2735012931_e14c973a97.jpg
 http://farm4.static.flickr.com/3234/3017112064_d44c3d0b1b.jpg
 http://farm1.static.flickr.com/228/484662027_76874ceb73.jpg
-http://farm4.static.flickr.com/3047/2581089048_1b2e3b41d8.jpg
 http://farm1.static.flickr.com/225/501462560_958542dcfe.jpg
 http://farm3.static.flickr.com/2416/2414419307_1c0aff4868.jpg
 http://static.flickr.com/3155/2565268915_66de86cc6b.jpg
@@ -654,7 +648,6 @@ http://farm4.static.flickr.com/3185/2948254494_e666a20390.jpg
 http://farm3.static.flickr.com/2230/2463193872_0791c1ac72.jpg
 http://farm4.static.flickr.com/3161/2731190256_9afd39f07a.jpg
 http://farm4.static.flickr.com/3090/2902464433_a6fc221dfd.jpg
-http://farm3.static.flickr.com/2010/1858241095_1ab8c26c0c.jpg
 http://farm4.static.flickr.com/3087/3098869973_c764bf9208.jpg
 http://farm3.static.flickr.com/2065/2409109274_4baf508fbc.jpg
 http://farm3.static.flickr.com/2347/2474763212_01baa6baaa.jpg
@@ -902,7 +895,6 @@ http://farm4.static.flickr.com/3009/2817508959_137bd00593.jpg
 http://farm4.static.flickr.com/3030/3004319880_76712cd275.jpg
 http://farm1.static.flickr.com/26/94924351_6aab3c0ccd.jpg
 http://farm1.static.flickr.com/14/15007230_6f2f173a79.jpg
-http://farm4.static.flickr.com/3482/3192404646_8e3a53b200.jpg
 http://farm2.static.flickr.com/1057/1209028831_439c5a4f60.jpg
 http://farm1.static.flickr.com/23/29244227_570bc7403f.jpg
 http://farm3.static.flickr.com/2106/2178956291_8f879d4073.jpg

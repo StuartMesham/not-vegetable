@@ -248,7 +248,6 @@ http://farm1.static.flickr.com/199/468986050_f7add559ba.jpg
 http://cache1.asset-cache.net/xc/91113316.jpg?v=1&c=IWSAsset&k=2&d=EDF6F2F4F969CEBDBE96A643C2E6219EC4BA39C6ACABED470D55C623B31DD20BE30A760B0D811297
 http://farm2.static.flickr.com/1315/577983537_1e3bf675a1.jpg
 http://farm3.static.flickr.com/2125/2487731752_e124a275dc.jpg
-http://farm1.static.flickr.com/29/50400982_5dc72db0fa.jpg
 http://farm2.static.flickr.com/1440/741420318_c60c382dbe.jpg
 http://farm1.static.flickr.com/55/190583365_8ff9c5284f.jpg
 http://farm3.static.flickr.com/2248/2327413132_df0fabf79e.jpg
@@ -357,7 +356,6 @@ http://the-plant-directory.co.uk/images/rhubarb-forcer-in-polymer-r.jpg
 http://static.flickr.com/35/69692914_8f7f7d67e0.jpg
 http://farm3.static.flickr.com/2399/2459059915_33253a8280.jpg
 http://www.raderfarms.com/images/rhubarb.jpg
-http://farm3.static.flickr.com/2276/2538712205_88e2e21979.jpg
 http://farm4.static.flickr.com/3283/2597163823_cd43a8881d.jpg
 http://static.flickr.com/3235/2538711641_973be0483b.jpg
 http://www.treehugger.com/rhubarb-growing-photo.jpg
@@ -558,7 +556,6 @@ http://static.flickr.com/2279/2487345277_437d4822f7.jpg
 http://www.hort.wisc.edu/mastergardener/Features/vegetables/chard/silverado.jpg
 http://farm3.static.flickr.com/2739/4198469129_ee80ac556a.jpg
 http://farm4.static.flickr.com/3275/2555141403_34d942f3af.jpg
-http://farm1.static.flickr.com/208/517303381_0d23da443a.jpg
 http://farm4.static.flickr.com/3076/2654709744_9c9bd2b967.jpg
 http://www.kenmuir.co.uk/resources/categoryImages/rhubarb.jpg
 http://www.tropic.ca/images/plants/Gunnera%20manicata.jpg

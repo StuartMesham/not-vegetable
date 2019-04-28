@@ -103,7 +103,6 @@ http://farm3.static.flickr.com/2070/2279052166_ce7b354f88.jpg
 http://www.vegetable-garden-guide.com/images/lettuce-harvest.jpg
 http://farm2.static.flickr.com/1051/655643304_261dd70de6.jpg
 http://www.denverplants.com/veg/images/v0002.jpg
-http://farm4.static.flickr.com/3046/2609219188_f780e5d34e.jpg
 https://www.naturalgardening.com/images/lettuce_nevada.jpg
 http://farm4.static.flickr.com/3233/2326374527_05c28b283b.jpg
 http://farm2.static.flickr.com/1037/577378629_5e890e6863.jpg
@@ -199,7 +198,6 @@ http://farm2.static.flickr.com/1090/592730753_4ec015cdc2.jpg
 http://www.willowbrookfoods.co.uk/056_Lettuce_backdrop.jpg
 http://farm2.static.flickr.com/1121/920655781_a27e05a802.jpg
 http://farm4.static.flickr.com/3240/2983986020_5b577d939a.jpg
-http://farm4.static.flickr.com/3218/2608592363_4357585119.jpg
 http://farm1.static.flickr.com/149/337003970_ec3abb4460.jpg
 http://www.pureprescriptions.com/images/hn_images/food_guide/bibb_lettuce.jpg
 http://farm3.static.flickr.com/2352/2461789435_bd63598ce8.jpg
@@ -237,14 +235,12 @@ http://farm2.static.flickr.com/1233/1051931547_2d01860db7.jpg
 http://farm1.static.flickr.com/228/550058588_fdb70a54eb.jpg
 http://farm4.static.flickr.com/3226/2459464855_06502338a9.jpg
 http://farm4.static.flickr.com/3259/2518889289_27ed5bed03.jpg
-http://farm1.static.flickr.com/175/440982235_0812fc66bb.jpg
 http://farm2.static.flickr.com/1394/1492119840_a589cd1465.jpg
 http://static.flickr.com/3012/2941842880_8136fbde0d.jpg
 http://farm4.static.flickr.com/3133/2654253625_eb1277a127.jpg
 http://farm3.static.flickr.com/2199/1677322451_4c6a26829f.jpg
 http://gallery.squair.ca/d/2010-2/IMG_3681.JPG
 http://farm4.static.flickr.com/3185/2770479216_c6e3e13361.jpg
-http://farm1.static.flickr.com/94/251837859_458ca3e353.jpg
 http://farm1.static.flickr.com/217/517737163_e75667f9c3.jpg
 http://www.southbound.ph/blog/wp-content/photos/gourmet/gourmet-lettuce.jpg
 http://www.cinnamonhearts.com/Lettuce&Pepper.JPG
@@ -718,7 +714,6 @@ http://130.94.157.11/ftpimages/HomePage/lettuce.jpg
 http://www.extension.umn.edu/yardandgarden/YGLNews/images2/lettuce-bolting.jpg
 http://ecolibrary.cs.brandeis.edu/images/thumb50/thumb50_Water_lettuce_Pistia_stratiotes_DP200.jpg
 http://hortcourses.com/img-upload/zhort/nftlettuce-resized.JPG
-http://farm3.static.flickr.com/2158/2509265102_6231033a8f.jpg
 http://farm4.static.flickr.com/3024/2870658816_6c525d9352.jpg
 http://static.flickr.com/3121/3166837821_815852212f.jpg
 http://static.flickr.com/3043/2607655597_a43a853c80.jpg
@@ -792,7 +787,6 @@ http://farm4.static.flickr.com/3139/2670406422_8a2dbfa7f9.jpg
 http://farm4.static.flickr.com/3531/3220870842_d36799c52c.jpg
 http://farm3.static.flickr.com/2107/1992343487_c7de6f370a.jpg
 http://static.flickr.com/3227/2610935348_3180bd3c72.jpg
-http://farm2.static.flickr.com/1391/630841616_7068d2589f.jpg
 http://farm4.static.flickr.com/3336/3235328767_3168b7e0ef.jpg
 http://farm4.static.flickr.com/3064/2730390294_31a55760e0.jpg
 http://www.aquaponics.com/images/projOlds24.jpg
@@ -904,7 +898,6 @@ http://farm3.static.flickr.com/2189/1497511124_e2f4462c41.jpg
 http://farm4.static.flickr.com/3006/2941759110_0936cf876c.jpg
 http://www.loja.jardicentro.pt/images/horticolas/jardicentro_sementes_alface_atraccao.jpg
 http://farm4.static.flickr.com/3468/3188464866_47e2a78175.jpg
-http://farm2.static.flickr.com/1093/540152034_74829e2307.jpg
 http://farm4.static.flickr.com/3257/2751438152_cd1959b30c.jpg
 http://farm1.static.flickr.com/46/117465298_4eef6df384.jpg
 http://farm4.static.flickr.com/3005/2478850711_7166d62fa3.jpg
