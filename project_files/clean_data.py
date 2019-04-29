@@ -1,14 +1,22 @@
 """
+# Dependencies
+* requests - a very good python http library: https://2.python-requests.org/
+
 # Usage
-1. Run ```python3 clean_data.py remove_duplicates path```
+1. Run ```python3 clean_data.py remove_duplicates path``` from /not-vegetable/project_files
     1.1 path = vegetables/image_urls
     1.2 path = fruit/image_urls
 2. The program will remove all duplicated URLs from the files inside the given directory's path
+
+
 """
-import os
-import sys
 import glob
+import os
+import socket
+import sys
 from typing import List, Dict
+
+import requests
 
 
 def remove_duplicates(path: str):
@@ -48,7 +56,7 @@ def remove_duplicates(path: str):
     # Now go through the dictionary and remove all those URLs
     for url, filenames in url_to_filenames.items():
         for filename in filenames:
-            with open(filename, "r+", encoding="utf8") as file:
+            with open(filename, "r+", encoding="utf-8") as file:
                 lines = file.readlines()
                 file.seek(0)
                 for line in lines:
@@ -56,6 +64,31 @@ def remove_duplicates(path: str):
                         file.write(line)
                 file.truncate()  # Remove all lines after the cursor
     print("Files removed from {}:{}".format(path, "File Removed: \t".join(url_to_filenames.keys()).encode('utf-8')))
+
+
+def remove_broken_urls(path: str):
+    # TODO this waits a very long time before timing out a connection.
+    # TODO Very occasionally this finds a character that doesn't play nicely with utf8
+    file_names = glob.glob(os.path.join(path, '*.txt'))
+
+    for file_name in file_names:
+        print("Removing files from {}".format(file_name))
+        with open(file_name, 'r+', encoding='utf-8') as file:
+            urls = file.readlines()
+            file.seek(0)
+            for url in urls:
+                try:
+                    response = requests.get(url.encode(encoding="urf8").strip())
+                    if response.status_code == 200:
+                        file.write(url)
+                    else:
+                        print("\tRemoved file: {}".format(url.strip()))
+                except:
+                    print("\tError with file: {}".format(url.strip()))
+
+            file.truncate()  # Remove all lines after the cursor
+    else:
+        print("No files matching *.txt found in {}".format(path))
 
 
 if __name__ == '__main__':

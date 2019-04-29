@@ -51,6 +51,31 @@ Currently the following command is used to download all the links found in ```ur
 aria2c -i urls.txt -d images -j 50 --connect-timeout=5 --timeout=30 --max-tries=2 --lowest-speed-limit=1K
 ```
 
+-i, --input-file=<FILE>
+* Downloads the URIs listed in FILE. You can specify multiple sources for a single entity by putting multiple URIs on a single line separated by the TAB character. Additionally, options can be specified after each URI line. Option lines must start with one or more white space characters (SPACE or TAB) and must only contain one option per line. Input files can use gzip compression. When FILE is specified as -, aria2 will read the input from stdin. See the Input File subsection for details. See also the --deferred-input option. See also the --save-session option.
+
+-d, --dir=<DIR>
+* The directory to store the downloaded file.
+
+-j, --max-concurrent-downloads=<N>
+* Set the maximum number of parallel downloads for every queue item. See also the --split option. Default: 5
+
+--connect-timeout=<SEC>
+* Set the connect timeout in seconds to establish connection to HTTP/FTP/proxy server. After the connection is established, this option makes no effect and --timeout option is used instead. Default: 60
+
+-t, --timeout=<SEC>
+* Set timeout in seconds. Default: 60
+
+-m, --max-tries=<N>
+* Set number of tries. 0 means unlimited. See also --retry-wait. Default: 5
+
+--lowest-speed-limit=<SPEED>
+* Close connection if download speed is lower than or equal to this value(bytes per sec). 0 means aria2 does not have a lowest speed limit. You can append K or M (1K = 1024, 1M = 1024K). This option does not affect BitTorrent downloads. Default: 0
+
+--dry-run [true|false]
+* If true is given, aria2 just checks whether the remote file is available and doesn’t download data. This option has effect on HTTP/FTP download. BitTorrent downloads are canceled if true is specified. Default: false
+
+
 
 ## Usage
 
