@@ -31,20 +31,20 @@ Eventually, Not-Vegetable will classify images as either containing a vegetable 
 ## Contributing
 All pull requests are welcome.
 
-##Quick Start
+## Quick Start
 Run the commands listed here from the project root.
 
-###1. Create URLs database
+### 1. Create URLs database
 ```bash
 python3 utils/download_urls.py
 ```
 
-###2. Create strawberry not-strawberry url lists
+### 2. Create strawberry not-strawberry url lists
 ```bash
 python3 utils/strawberry.py
 ```
 
-###3. Download strawberry not-strawberry images
+### 3. Download strawberry not-strawberry images
 make sure aria2 is installed before running this command
 ```bash
 ./utils/download_strawberry.sh
