@@ -39,17 +39,17 @@ Run the commands listed here from the project root.
 pip3 install -r requirements.txt
 ```
 
-### 1. Create URLs database
+### 2. Create URLs database
 ```bash
 python3 utils/download_urls.py
 ```
 
-### 2. Create strawberry not-strawberry url lists
+### 3. Create strawberry not-strawberry url lists
 ```bash
 python3 utils/strawberry.py
 ```
 
-### 3. Download strawberry not-strawberry images
+### 4. Download strawberry not-strawberry images
 make sure aria2 is installed before running this command
 ```bash
 ./utils/download_strawberry.sh
