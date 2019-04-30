@@ -24,7 +24,7 @@ random.shuffle(not_strawberry_urls)
 print('strawberries:', len(strawberry_urls))
 print('not-strawberries:', len(not_strawberry_urls))
 
-not_strawberry_urls = not_strawberry_urls[:len(strawberry_urls)*6]
+not_strawberry_urls = not_strawberry_urls[:len(strawberry_urls)]
 print('not-strawberries to be used:', len(not_strawberry_urls))
 
 f = codecs.open('data/strawberry_urls.txt', 'w', 'utf-8')
