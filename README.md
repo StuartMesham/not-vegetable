@@ -34,6 +34,11 @@ All pull requests are welcome.
 ## Quick Start
 Run the commands listed here from the project root.
 
+### 1. Install requirements
+```bash
+pip3 install -r requirements.txt
+```
+
 ### 1. Create URLs database
 ```bash
 python3 utils/download_urls.py
