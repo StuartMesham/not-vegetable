@@ -1,5 +1,6 @@
 import os
 import datetime
+import keras
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Activation, Dropout, Flatten, Dense
@@ -10,7 +11,7 @@ from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 IMAGE_SIZE = 150
-BATCH_SIZE = 64
+BATCH_SIZE = 16
 
 # make new empty log directory for tensorboard
 LOG_DIR = 'data/summaries/model1_' + datetime.datetime.now().strftime("%Y-%m-%d-%Hh%M")
@@ -47,7 +48,7 @@ model.add(Conv2D(32, (3, 3), input_shape=(IMAGE_SIZE, IMAGE_SIZE, 3)))
 model.add(Activation('relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
-model.add(Conv2D(32, (6, 6), strides=(2, 2)))
+model.add(Conv2D(32, (3, 3)))
 model.add(Activation('relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
@@ -65,17 +66,18 @@ model.add(Activation('sigmoid'))
 model.summary()
 
 model.compile(loss='binary_crossentropy',
-              optimizer='rmsprop',
+              optimizer=keras.optimizers.Adam(lr=0.00003),
               metrics=['accuracy'])
 
 tensorboard = TensorBoard(log_dir=LOG_DIR, histogram_freq=0, write_graph=False, write_images=False)
 
-
 model.fit_generator(
     train_datagen,
     steps_per_epoch=2000//BATCH_SIZE,
-    epochs=20,
+    epochs=5,
     validation_data=val_datagen,
     validation_steps=800//BATCH_SIZE,
     callbacks=[tensorboard]
 )
+
+model.save('data/model12_epoch_50.h5')
