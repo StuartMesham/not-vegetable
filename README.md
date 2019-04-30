@@ -77,7 +77,7 @@ In the utils directory are the fruit_names.txt and vegetable_names.txt files. Th
 tool_to_create_group_codes.py was used to help manually create lists of wnids based on the wikipedia fruit and veg lists.
 
 ```bash
-python3 tool.py python3 tool_to_create_group_codes.py utils/vegetable_names.txt
+python3 utils/tool_to_create_group_codes.py utils/vegetable_names.txt
 ```
 
 These manually created lists are the wordnet_id_to_fruit.txt and wordnet_id_to_vegetable.txt files
@@ -86,7 +86,7 @@ Next the download_urls.py script was used to download image url lists image-net.
 The urls are saved into a sqlite database in the data directory.
 
 ```bash
-python3 download_urls.py
+python3 utils/download_urls.py
 ```
 
 
