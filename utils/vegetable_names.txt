@@ -71,7 +71,7 @@ parsley
 pepper
 bell pepper
 chili pepper
-Jalapeño
+Jalapeno
 Habanero
 Paprika
 Tabasco pepper

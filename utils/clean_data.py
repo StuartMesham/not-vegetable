@@ -3,7 +3,7 @@
 * requests - a very good python http library: https://2.python-requests.org/
 
 # Usage
-1. Run ```python3 clean_data.py remove_duplicates path``` from /not-vegetable/project_files
+1. Run ```python3 clean_data.py remove_duplicates path``` from /not-vegetable/utils
     1.1 path = vegetables/image_urls
     1.2 path = fruit/image_urls
 2. The program will remove all duplicated URLs from the files inside the given directory's path
@@ -12,7 +12,6 @@
 """
 import glob
 import os
-import socket
 import sys
 from typing import List, Dict
 

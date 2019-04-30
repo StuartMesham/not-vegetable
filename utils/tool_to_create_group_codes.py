@@ -4,13 +4,19 @@
     for fruit and veggie ImageNet wnids (WordNet ids)
 """
 import sys
+import os
+import urllib.request
 
 if len(sys.argv) < 2:
-    print('usage: python3 tool_to_create_group_codes.py vegetables/vegetable_names.txt')
+    print('usage: python3 tool_to_create_group_codes.py utils/vegetable_names.txt')
     sys.exit(0)
 
-source = open('wordnet_id_to_word.txt', 'r')
+if not os.path.isfile('data/wordnet_id_to_word.txt'):
+    urllib.request.urlretrieve('http://image-net.org/archive/words.txt', 'data/wordnet_id_to_word.txt')
+
+source = open('data/wordnet_id_to_word.txt', 'r')
 destination = open(sys.argv[1], 'r')
+print(sys.argv[1])
 
 lines = source.readlines()
 

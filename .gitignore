@@ -1,2 +1,5 @@
-# Ignore all the Intellij specific files
-*.idea
+# Ignore all the PyCharm specific files
+.idea
+__pycache__
+
+data/*

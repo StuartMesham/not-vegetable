@@ -1,0 +1,1 @@
+This directory is intended to be used to store generated and downloaded data. The generated contents should not be tracked in git.
