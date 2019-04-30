@@ -74,10 +74,10 @@ tensorboard = TensorBoard(log_dir=LOG_DIR, histogram_freq=0, write_graph=False, 
 model.fit_generator(
     train_datagen,
     steps_per_epoch=2000//BATCH_SIZE,
-    epochs=5,
+    epochs=50,
     validation_data=val_datagen,
     validation_steps=800//BATCH_SIZE,
     callbacks=[tensorboard]
 )
 
-model.save('data/model12_epoch_50.h5')
+model.save('data/model1_epoch_49.h5')
