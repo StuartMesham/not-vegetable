@@ -1,3 +1,7 @@
+# download trained model here:
+# https://people.cs.uct.ac.za/~mshstu001/model1_epoch_49.h5
+
+
 import os
 import datetime
 import keras
@@ -80,4 +84,4 @@ model.fit_generator(
     callbacks=[tensorboard]
 )
 
-model.save('data/model1_epoch_49.h5')
+model.save('data/model1_epoch_49.h5', include_optimizer=False)
