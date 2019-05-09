@@ -8,7 +8,7 @@
 import urllib.request
 import os
 import sys
-import image_database
+import utils.image_database as image_database
 
 
 if os.path.isfile(image_database.DB_PATH):

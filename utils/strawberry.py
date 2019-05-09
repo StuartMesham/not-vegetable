@@ -1,4 +1,4 @@
-import image_database
+import utils.image_database as image_database
 import codecs
 import random
 
